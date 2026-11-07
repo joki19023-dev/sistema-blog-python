@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "titulo": "Introducción a Python",
+        "autor": {
+            "nombre": "Guido van Rossum",
+            "bio": "Creador del lenguaje de programación Python en el CWI de Ámsterdam.",
+            "redes_sociales": [
+                "https://github.com/gvanrossum",
+                "https://gist.github.com/gvanrossum",
+                "https://gvanrossum.github.io/"
+            ]
+        },
+        "categoria": "Programación",
+        "tags": [
+            "python",
+            "desarrollo web"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Estructuras de datos en memoria",
+        "autor": {
+            "nombre": "Guido van Rossum",
+            "bio": "Creador del lenguaje de programación Python en el CWI de Ámsterdam.",
+            "redes_sociales": [
+                "https://github.com/gvanrossum",
+                "https://gist.github.com/gvanrossum",
+                "https://gvanrossum.github.io/"
+            ]
+        },
+        "categoria": "Bases de Datos",
+        "tags": [
+            "python",
+            "bases de datos"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 3,
+        "titulo": "El futuro de la inteligencia artificial con Python",
+        "autor": {
+            "nombre": "Guido van Rossum",
+            "bio": "Creador del lenguaje de programación Python en el CWI de Ámsterdam.",
+            "redes_sociales": [
+                "https://github.com/gvanrossum",
+                "https://gist.github.com/gvanrossum",
+                "https://gvanrossum.github.io/"
+            ]
+        },
+        "categoria": "Tecnología",
+        "tags": [
+            "python",
+            "inteligencia artificial"
+        ],
+        "estado": "borrador"
+    }
+]
